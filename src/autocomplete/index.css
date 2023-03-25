@@ -1,0 +1,19 @@
+.ac-wrapper {
+  width: 100%;
+  margin: 20px;
+  position: relative;
+}
+.ac-input {
+  width: 80%;
+  height: 40px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.ac-suggestions {
+  position: absolute;
+  border: solid 1px gray;
+  width: 80%;
+  padding: 10px;
+  font-size: 20px;
+}
